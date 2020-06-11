@@ -34,4 +34,13 @@ h1 {
 .class-contact {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 72pt;
+    padding-left: 24pt;
+    padding-right: 24pt;
+    padding-bottom: 72pt;
+}
+
+.class-container {
+    background-color: grey;
+    padding: 14pt;
+    padding-bottom: 14pt;
 }
