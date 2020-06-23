@@ -27,12 +27,12 @@ h1 {
 }
 
 .class-text {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .class-contact {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding-top: 72pt;
     padding-left: 24pt;
     padding-right: 24pt;
@@ -43,4 +43,16 @@ h1 {
     background-color: grey;
     padding: 14pt;
     padding-bottom: 14pt;
+}
+
+.contact-container {
+    padding-top: 10%;
+    text-align: center;
+    border: 40pt;
+    border-color: black;
+}
+
+.contact-container h4 {
+    text-decoration: underline;
+
 }
